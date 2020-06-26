@@ -26,3 +26,7 @@ This has following functions
 - install all packages by typing `npm install`.
 - run the app by typing `npm start`.
 - If the browser doesn't open type localhost:3000.
+
+## DEMO
+
+![Demo Video](demo.gif)
